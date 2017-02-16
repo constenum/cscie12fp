@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="044d9055-4a7d-4cb9-ad57-511a2ff51406" name="TLC" url="http://10.103.25.22">
+        <fileTransfer host="10.103.25.22" port="22" rootFolder="/home/ladmin" accessType="SFTP" username="ladmin">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
